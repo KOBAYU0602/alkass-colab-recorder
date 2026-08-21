@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+venv/
+*.part
+*.ts
+*.mp4
+*.m3u8
+*.cookies.txt
+Cookies*.txt
+cookies*.txt
+ledger.json
+state.json
+.cloud_work/
+sanitized/
